@@ -1,0 +1,31 @@
+{
+  "name": "unidade_4",
+  "version": "1.0.0",
+  "description": "Repositório para a 4 unidade, com integração com banco de dados.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateusdjg/Unidade_4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mateusdjg/Unidade_4/issues"
+  },
+  "homepage": "https://github.com/Mateusdjg/Unidade_4#readme",
+  "devDependencies": {
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "express": "^5.3.0"
+  }
+}
